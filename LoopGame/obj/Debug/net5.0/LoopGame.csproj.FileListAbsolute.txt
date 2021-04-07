@@ -1,0 +1,15 @@
+/Users/whitstroup/repos/LoopGame/LoopGame/bin/Debug/net5.0/LoopGame.deps.json
+/Users/whitstroup/repos/LoopGame/LoopGame/bin/Debug/net5.0/LoopGame.runtimeconfig.json
+/Users/whitstroup/repos/LoopGame/LoopGame/bin/Debug/net5.0/LoopGame.runtimeconfig.dev.json
+/Users/whitstroup/repos/LoopGame/LoopGame/bin/Debug/net5.0/LoopGame.dll
+/Users/whitstroup/repos/LoopGame/LoopGame/bin/Debug/net5.0/ref/LoopGame.dll
+/Users/whitstroup/repos/LoopGame/LoopGame/bin/Debug/net5.0/LoopGame.pdb
+/Users/whitstroup/repos/LoopGame/LoopGame/obj/Debug/net5.0/LoopGame.csprojAssemblyReference.cache
+/Users/whitstroup/repos/LoopGame/LoopGame/obj/Debug/net5.0/LoopGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/whitstroup/repos/LoopGame/LoopGame/obj/Debug/net5.0/LoopGame.AssemblyInfoInputs.cache
+/Users/whitstroup/repos/LoopGame/LoopGame/obj/Debug/net5.0/LoopGame.AssemblyInfo.cs
+/Users/whitstroup/repos/LoopGame/LoopGame/obj/Debug/net5.0/LoopGame.csproj.CoreCompileInputs.cache
+/Users/whitstroup/repos/LoopGame/LoopGame/obj/Debug/net5.0/LoopGame.dll
+/Users/whitstroup/repos/LoopGame/LoopGame/obj/Debug/net5.0/ref/LoopGame.dll
+/Users/whitstroup/repos/LoopGame/LoopGame/obj/Debug/net5.0/LoopGame.pdb
+/Users/whitstroup/repos/LoopGame/LoopGame/obj/Debug/net5.0/LoopGame.genruntimeconfig.cache

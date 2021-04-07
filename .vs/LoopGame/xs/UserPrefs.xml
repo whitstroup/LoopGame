@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{CE8542D3-8C81-466E-9FE7-17F5DFB39880}|Default">
+  <MonoDevelop.Ide.ItemProperties.LoopGame FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LoopGame/Program.cs">
+    <Files>
+      <File FileName="LoopGame/Program.cs" Line="9" Column="14" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
