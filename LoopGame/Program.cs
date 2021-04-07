@@ -110,7 +110,7 @@ namespace LoopGame
                     }
                 }
 
-                var playAgain = GameScreen(lives);
+                startGame = GameScreen(lives);
             }
            
 
